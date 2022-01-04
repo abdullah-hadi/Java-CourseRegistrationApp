@@ -1,0 +1,5 @@
+Student Name,ID,Department,Course,Status,Email,Term
+Abdullah  Al  Hadi Mahfuz/201-115-075/CSE/CSE 121 - Structured Programming/Regular/armahfuz47@gmail.com/Spring
+Abdur Rahman Karim/201-558-778/EEE/CSE 122 - Structured Programming Lab/Regular/karim@yahoo.com/Spring
+Mohammad Younous Khan/201-557-454/ECONOMICS/GED 113 - English Language I/Retake/younous.economics@yahoo.com/Spring
+Mohammad Rafikul Islam/221-758-746/English/GED 113 - English Language I/Retake/rafik@yahoo.com/Autumn
