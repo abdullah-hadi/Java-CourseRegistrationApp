@@ -1,5 +1,4 @@
 Student Name,ID,Department,Course,Status,Email,Term
-Abdullah  Al  Hadi Mahfuz/201-115-075/CSE/CSE 121 - Structured Programming/Regular/armahfuz47@gmail.com/Spring
-Abdur Rahman Karim/201-558-778/EEE/CSE 122 - Structured Programming Lab/Regular/karim@yahoo.com/Spring
-Mohammad Younous Khan/201-557-454/ECONOMICS/GED 113 - English Language I/Retake/younous.economics@yahoo.com/Spring
-Mohammad Rafikul Islam/221-758-746/English/GED 113 - English Language I/Retake/rafik@yahoo.com/Autumn
+Nazifa Tasnim  Chowdhury/201-115-060/CSE/PHY 111 - Physics I/Regular/tasnimnazifa99@gmail.com/Spring
+Moumita Debnath Mou/201-115-071/CSE/MAT 112 - Differential & Integral Calculus/Regular/mou30124@gmail.com /Spring
+Abdullah Al Hadi Mahfuz/201-115-075/CSE/GED 125 - English Language II/Regular/armahfuz47@gmail.com/Spring
