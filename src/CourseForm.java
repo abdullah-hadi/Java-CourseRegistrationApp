@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author nazifa, moumita, mahfuz
+ * @author nazifa, moumita, hadi
  */
 
 public class CourseForm extends javax.swing.JFrame {
