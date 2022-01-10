@@ -542,6 +542,7 @@ public class CourseForm extends javax.swing.JFrame {
         File file = new File(filePath);
         
         try {
+            jTable1.setModel(new DefaultTableModel(null,new String[] {"Student Name","ID","Department","Course","Status","Email","Term" }));
             BufferedReader br = new BufferedReader(new FileReader(file));
             // get the first line
             // get the columns name from the first line
