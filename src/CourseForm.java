@@ -129,7 +129,6 @@ public class CourseForm extends javax.swing.JFrame {
         jLabel2.setLabelFor(sFirstName);
         jLabel2.setText("Student Name");
 
-        sFirstName.setToolTipText("");
         sFirstName.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         sFirstName.setName("nice"); // NOI18N
         sFirstName.addFocusListener(new java.awt.event.FocusAdapter() {
@@ -420,17 +419,17 @@ public class CourseForm extends javax.swing.JFrame {
 
     private void sFirstNameFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_sFirstNameFocusGained
         // TODO add your handling code here:
-        sFirstName.setText("");
+       // sFirstName.setText("");
     }//GEN-LAST:event_sFirstNameFocusGained
 
     private void sMiddleNameFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_sMiddleNameFocusGained
         // TODO add your handling code here:
-         sMiddleName.setText("");
+         //sMiddleName.setText("");
     }//GEN-LAST:event_sMiddleNameFocusGained
 
     private void sLastNameFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_sLastNameFocusGained
         // TODO add your handling code here:
-         sLastName.setText("");
+        // sLastName.setText("");
     }//GEN-LAST:event_sLastNameFocusGained
 
     private void sSubmitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sSubmitActionPerformed
