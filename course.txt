@@ -2,3 +2,6 @@ Student Name,ID,Department,Course,Status,Email,Term
 Nazifa Tasnim  Chowdhury/201-115-060/CSE/PHY 111 - Physics I/Regular/tasnimnazifa99@gmail.com/Spring
 Moumita Debnath Mou/201-115-071/CSE/MAT 112 - Differential & Integral Calculus/Regular/mou30124@gmail.com /Spring
 Abdullah Al Hadi Mahfuz/201-115-075/CSE/GED 125 - English Language II/Regular/armahfuz47@gmail.com/Spring
+Anik Hasan /201-115-445/CSE/CSE 111 - Computer Technology/Regular/hasan@gmail.com/Spring
+Ali Hussain /201-115-987/CSE/MAT 112 - Differential & Integral Calculus/Regular/ali@yahoo.com/Spring
+Abdullah Al Hadi/201-115-987/CSE/MAT 112 - Differential & Integral Calculus/Regular/mahfuz@gmail.com/Spring
